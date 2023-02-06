@@ -176,18 +176,9 @@ header h2{
 }
 .bottom_inner{
     width: 25%;
-    /* overflow: hidden; */
     text-align: center;
-    /* padding: 0 0; */
     margin: 0 auto;
 }
-/* .inner_content{
-    width: 210px;
-    background-color: #fff;
-    padding: 50px 32px 36px;
-    box-shadow: 0 0 8px #dadada;
-    margin: 0 0 0 14px;
-} */
 .inner_content{
     width: 180px;
     background-color: #fff;
@@ -239,6 +230,9 @@ header h2{
     width: 50%;
     text-align: center;
     margin: 0 auto;
+}
+.edex_content:nth-child(2) .edex_top, .edex_content:nth-child(2) .edex_bottom{
+    margin-left: 108px;
 }
 .edex_top h2{
     font-size: 14px;
@@ -309,6 +303,7 @@ header h2{
 }
 .works_img img{
     width: 100%;
+    display: block;
 }
 /* works_start */
 
