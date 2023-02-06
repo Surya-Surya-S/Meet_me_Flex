@@ -201,7 +201,7 @@ header h2{
     font-size: 9px;
     line-height: 19px;
     color: #666;
-    padding: 0 14px;
+    padding: 0 10px;
 }
 .inner_content2{
     padding: 0 0 68px 0;
@@ -234,7 +234,7 @@ header h2{
     margin: 0 auto;
 }
 .edex_content:nth-child(2) .edex_top, .edex_content:nth-child(2) .edex_bottom{
-    margin-left: 108px;
+    margin-left: 68px;
 }
 .edex_top h2{
     font-size: 14px;
